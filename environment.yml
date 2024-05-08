@@ -1,5 +1,5 @@
 # conda env create --file environment.yml
-name: manejo_de_rutas
+name: analisis_notic
 channels:
   - anaconda
   - conda-forge

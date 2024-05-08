@@ -141,3 +141,6 @@ cython_debug/
 
 # Exclude data from source control by default
 /data/
+
+# archivos varios
+claves_twitter.rtf
